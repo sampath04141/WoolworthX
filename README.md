@@ -29,6 +29,6 @@ target/FinalReport/cucumber-html-reports
 mvn clean "-Dcucumber.options=--tags @smoke" verify
 
 Note: Replace FeatureTag with the actual name of that feature. All the feature files are found in
-ProjectLocation\src\test\java\maca\features folder
+ProjectLocation\src\test\java\woolworth\features folder
 
 9) In order to make changes or view the code, it is recommended to use an IDE like intellij IDEA or eclipse
